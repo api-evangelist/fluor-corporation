@@ -1,0 +1,14 @@
+{
+  "repo": "fluor-corporation",
+  "feeds": [
+    {
+      "source": "https://newsroom.fluor.com/rss/pressrelease.aspx",
+      "feed_url": "https://newsroom.fluor.com/rss/pressrelease.aspx",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "fetched": "2026-08-15T12:22:01Z",
+  "post_count": 21
+}

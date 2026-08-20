@@ -1,0 +1,35 @@
+aid: fluor-corporation
+url: https://raw.githubusercontent.com/api-evangelist/fluor-corporation/refs/heads/main/apis.yml
+name: Fluor Corporation
+type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/fluor-corporation.png
+tags:
+  - Construction
+  - Engineering
+  - Energy Infrastructure
+  - Fortune 500
+description: 'A multinational engineering and construction firm providing design, procurement, construction, and maintenance services. Serves energy, chemicals, mining, infrastructure, and government sectors with large-scale capital project expertise.'
+created: '2026-05-05'
+modified: '2026-05-05'
+specificationVersion: '0.23'
+apis: []
+common:
+  - type: DomainSecurity
+    url: security/fluor-corporation-domain-security.yml
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/fluor
+  - type: Website
+    url: https://www.fluor.com/
+  - url: https://newsroom.fluor.com/rss/pressrelease.aspx
+    type: Blog
