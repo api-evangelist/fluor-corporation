@@ -44,5 +44,3 @@ common:
     url: https://www.fluor.com/
   - url: https://newsroom.fluor.com/rss/pressrelease.aspx
     type: Blog
-x-parent: fluor
-x-relationship: product
